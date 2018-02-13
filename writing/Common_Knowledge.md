@@ -2,7 +2,19 @@
 
 ## General Information
 
-lorem ipsum
+Something is wrong. The lively little town of Backwater is quiet. Deathly
+quiet, you might say. An uncharacteristic fog has settled over the area,
+evoking a sense of dread and isolation. In a fog such as this, one might not
+even notice if the entire town were to disappear. But you've noticed the signs.
+Unfinished meals, empty houses, piled up mail... it's not just your
+imagination. Over the last several weeks, almost the entire town has vanished.
+You, and the rest of those remaining, have bunkered down in the local church to
+decide what to do now, and hopefully protect yourself from whatever darkness
+looms on the horizon.
+
+Join us for...
+
+A Poisoned Peace.
 
 ## Characters
 
