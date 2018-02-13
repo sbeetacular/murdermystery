@@ -1,4 +1,12 @@
-### LONGFELLOW:
+# A Poisoned Peace: Common Knowledge
+
+## General Information
+
+lorem ipsum
+
+## Characters
+
+### LONGFELLOW
 
 If Backwater had an aristocracy, the LONGFELLOW name would be first
 among them.  The family was there when the town was founded, and due to current
@@ -62,6 +70,12 @@ few weeks. Hopefully, it will blow over soon.
 
 ### BRANDON:
 
+BRANDON's a smart kid. And an incredibly active one.
+He always seems to be on the move, whether it's for his
+job delivering mail or his frequent camping trips. Brandon's
+well known among his peers as being someone you can turn to
+for advice. 
+
 ### OX:
 
 OX is a strong kid. He used to wrestle, and probably could have made nationals
@@ -80,4 +94,16 @@ cookies or something equally delicious.
 
 ### JENNY:
 
+JENNY only began going by her name when she came out as trans 2 years ago.
+Her transition has made her seem a lot more confident in herself, but
+it hasn't really made her any more outgoing. Always the shy girl, JENNY
+tends to avoid verbally answering when possible. She loves reading and
+playing soccer, though she tends to prefer solo drills over the actual game.
+
 ### ZOSTRA:
+
+ZOSTRA runs a prognostication service from her home. She also makes 
+her own herbal tea mixes from the plants she grows in her garden.
+ZOSTRA is good friends with VIVIAN, and frequently visits her shop.
+She's generally well liked in the town, especially by the kids, who
+she always seems to have just enough candy for.
