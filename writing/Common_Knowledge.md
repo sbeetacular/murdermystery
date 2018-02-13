@@ -1,5 +1,7 @@
 # A Poisoned Peace: Common Knowledge
 
+![](../resources/fog_vignette_2.jpg)
+
 ## General Information
 
 Something is wrong. The lively little town of Backwater is quiet. Deathly
