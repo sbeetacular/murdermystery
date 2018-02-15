@@ -114,7 +114,7 @@ few weeks. Hopefully, it will blow over soon.
 
 Ashton's a smart kid. And an incredibly active one.
 He always seems to be on the move, whether it's for his
-job delivering mail or his frequent camping trips. Brandon's
+job delivering mail or his frequent camping trips. Ashton's
 well known among his peers as being someone you can turn to
 for advice. 
 
