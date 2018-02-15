@@ -4,47 +4,57 @@
 
 ## General Information
 
-    It's summertime in the idyllic little town of Backwater. The warm sun 
+It's summertime in the idyllic little town of Backwater. The warm sun
 encourages children to leave their homes in favor of biking down the streets,
-splash around in their little kiddie pools, or, a town favourite, race boats 
+splash around in their little kiddie pools, or, a town favourite, race boats
 they've constructed down the river in the local park. Because school's been let
-out, everyone from the university has returned home to enjoy their time away from
-a mountain of assignments and catch up with their childhood friends. The trees lining
-the streets flutter in a soft wind that keeps the temperature just perfect for sitting
-outside the local ice cream parlour, and to visit their old haunting grounds.
+out, everyone from the university has returned home to enjoy their time away
+from a mountain of assignments and catch up with their childhood friends. The
+trees lining the streets flutter in a soft wind that keeps the temperature just
+perfect for sitting outside the local ice cream parlour, and to visit their old
+haunting grounds.
   
-   At least, that's how it was, before everything went to shit. It started a few weeks
-ago, when the first reports of children never coming home were filed. Worried parents
-and friends would comb the streets for hours, and the police sent out reports that started 
-searches in all the nearby towns. None of them ever showed up.
+At least, that's how it was, before everything went to shit. It started a few
+weeks ago, when the first reports of children never coming home were filed.
+Worried parents and friends would comb the streets for hours, and the police
+sent out reports that started searches in all the nearby towns. None of them
+ever showed up.
     
-    In the meantime, more and more went missing, and soon enough, the parents started vanishing too.
-A thick, heavy fog rolled into town as people became more and more frantic, now not only worried 
-about the ones who were already gone, but also who would go next. They tried to keep the town 
-functioning normally: delivering mail, meeting up with friends, and letting restless children out
-to play (though naturally under much closer supervision). Most people went missing during the night,
-and soon, an unspoken curfew was placed on the town to hopefully stop the losses. It didn't stop
-anything. Beds used the night before would be found cold and empty, meals were found left
-nearly untouched, children's boats were found stuck in enbankments, and overstuffed mailboxes became
-frequent sights around the town.
+In the meantime, more and more went missing, and soon enough, the parents
+started vanishing too.  A thick, heavy fog rolled into town as people became
+more and more frantic, now not only worried about the ones who were already
+gone, but also who would go next. They tried to keep the town functioning
+normally: delivering mail, meeting up with friends, and letting restless
+children out to play (though naturally under much closer supervision). Most
+people went missing during the night, and soon, an unspoken curfew was placed
+on the town to hopefully stop the losses. It didn't stop anything. Beds used
+the night before would be found cold and empty, meals were found left nearly
+untouched, children's boats were found stuck in enbankments, and overstuffed
+mailboxes became frequent sights around the town.
     
-    Some people believed that an organisation was kidnapping people on a large-scale, despite
-never being able to give a reason why so many people would be taken from the same area in a short
-amount of time. The more fatalistic were inclined to believe that some horrible mass-murderer had 
-been unleashed in their town, taking the victims to some secret location that made it nearly impossible
-to find the bodies. Others, still, turned to more paranatural explanations. The House on the Hill, the
-grand building that had stood their as a symbol of the town since it's founding, had burned down not long
-before the disappearances started. The fire department had been treating it as a case of arson (before all
-of them went missing, that is), and some members came to believe that a spirit had taken up residence there,
-and was pissed their home was destroyed. Rituals were done at the site of the house to try and appease whatever
-spirit might have been there, but the disappearences didn't let up.  
+Some people believed that an organisation was kidnapping people on
+a large-scale, despite never being able to give a reason why so many people
+would be taken from the same area in a short amount of time. The more
+fatalistic were inclined to believe that some horrible mass-murderer had been
+unleashed in their town, taking the victims to some secret location that made
+it nearly impossible to find the bodies. Others, still, turned to more
+paranatural explanations. The House on the Hill, the grand building that had
+stood their as a symbol of the town since it's founding, had burned down not
+long before the disappearances started. The fire department had been treating
+it as a case of arson (before all of them went missing, that is), and some
+members came to believe that a spirit had taken up residence there, and was
+pissed their home was destroyed. Rituals were done at the site of the house to
+try and appease whatever spirit might have been there, but the disappearences
+didn't let up.  
 
-    Now there's only a handful of people left in town. The police are gone, families are almost
-entirely broken up, and no one's been able to find anything that would give any information about
-where they've all ended up. Tensions are high, and the remaining members of the town, certainly 
-unwilling to brave another night alone, have all consolidated in the local church. Desperate, scared,
-and unsure of what their future holds, the survivors are determined to make it through the night. What
-they'll do when morning comes; however, is an entirely different matter. 
+Now there's only a handful of people left in town. The police are gone,
+families are almost entirely broken up, and no one's been able to find anything
+that would give any information about where they've all ended up. Tensions are
+high, and the remaining members of the town, certainly unwilling to brave
+another night alone, have all consolidated in the local church. Desperate,
+scared, and unsure of what their future holds, the survivors are determined to
+make it through the night. What they'll do when morning comes; however, is an
+entirely different matter. 
 
 ## Characters
 
@@ -114,7 +124,7 @@ few weeks. Hopefully, it will blow over soon.
 
 Ashton's a smart kid. And an incredibly active one.
 He always seems to be on the move, whether it's for his
-job delivering mail or his frequent camping trips. Brandon's
+job delivering mail or his frequent camping trips. Ashton's
 well known among his peers as being someone you can turn to
 for advice. 
 
@@ -122,12 +132,12 @@ for advice.
 
 Oscar is a strong kid. He used to wrestle, and probably could have made nationals
 if he hadn't quit 2 years ago. He spends most of his time either hanging out
-with Killian or working on his whittling. Although a little bit tempermental,
+with Flash or working on his whittling. Although a little bit tempermental,
 Oscar has a good heart and he hates seeing people treated unfairly.
 
 ### Killian 'Flash' Walker
 
-Corvana's nephew Killian loves to run, and he is extremely good at it. He spends
+Corvana's nephew Flash loves to run, and he is extremely good at it. He spends
 most of his time far away at college, which he got into on a sports
 scholarship, but he is home for the winter holidays. He speaks fast too - often
 to fast for his thoughts to keep up with, resulting in frequent but accidental
