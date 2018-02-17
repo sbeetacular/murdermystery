@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir pdf
 
 for i in *.md
 do
