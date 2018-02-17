@@ -70,4 +70,5 @@ you need to make sure that the police never come back.
 2. Help out Drašković, Rowan, and Flash. They are your best customers, after
    all.
 
-3. ???
+3. Divert conversations away from the arson. Some people are thinking it has to
+   do with the people disappearing, but they couldn't be related, right?
